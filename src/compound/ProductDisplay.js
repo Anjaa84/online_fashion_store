@@ -2,7 +2,7 @@ import React, { Component, useEffect, useState } from "react";
 import Axios from "axios";
 import {Card, Row, Col, Button, Navbar} from "react-bootstrap";
 import { CardBody } from "react-bootstrap/Card";
-import Slider from "@ant-design/react-slick";
+// import Slider from "@ant-design/react-slick";
 import PhotoSlide from "./PhotoSlide";
 import {useDispatch, useSelector} from "react-redux";
 import {
